@@ -525,7 +525,7 @@ function calculate() {
     document.getElementById('msTime').value = msTime;
 
     // Default Mod note
-    let modNoteDefault = `Mod note: Retimed to ${msTime}`;
+    let modNoteDefault = `Mod Note: Retimed to ${msTime}`;
     document.getElementById('modNote').value = modNoteDefault;
 }
 
